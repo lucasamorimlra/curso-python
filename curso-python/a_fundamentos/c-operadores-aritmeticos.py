@@ -1,0 +1,6 @@
+print(1 + 2)
+print(1 - 2)
+print(2 * 5.2)
+print(5.4 / 2)
+print(5.4 // 2)
+print(2 ** 8)
